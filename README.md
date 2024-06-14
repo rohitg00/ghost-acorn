@@ -25,7 +25,7 @@ Let us have a close look at the Acornfile and see what is defined:
 4. the sample App is now provisioned on the Acorn SaaS Platform and is available for **up to 2 hours**.
 5. Once the Acorn runs, you can access it by clicking the Endpoint or the redirect link.
 
-## Acorn Nextcloud App Details
+## Acorn Ghost App Details
 
 The Acorn Dashboard integrates multiple features such as Events, Logs, Details, and access to the Shell of the Application. Details include the CPU, Memory, Network, Latency, Requests, and Errors for the Application.
 
